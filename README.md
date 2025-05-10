@@ -43,4 +43,4 @@ _________________________________________________________________________
 •	Systém môže slúžiť ako základ pre rozšírené automatické vetranie, ovládanie svetiel či integráciu so školskou infraštruktúrou
 
 
-![Smart Classroom zariadenie](images/AOTpic.png)
+![Smart Classroom zariadenie](images/Smart-classroom-plagat.jpg)
