@@ -1,1 +1,2 @@
 # Smart-classroom
+intergalakticko leteagitcko
