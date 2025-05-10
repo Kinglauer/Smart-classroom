@@ -42,3 +42,5 @@ _________________________________________________________________________
 
 •	Systém môže slúžiť ako základ pre rozšírené automatické vetranie, ovládanie svetiel či integráciu so školskou infraštruktúrou
 
+
+![Smart Classroom zapojenie](Alžbeta iot-Photoroom.png)
