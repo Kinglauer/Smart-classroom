@@ -44,4 +44,4 @@ _________________________________________________________________________
 
 
 
-![Smart Classroom zariadenie](images/AlzbetaIOTpic.png)
+![Smart Classroom zariadenie](images/AIOTpic.png)
